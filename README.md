@@ -1,12 +1,20 @@
 # Exoscope
 
 ## Team NOBHOYAN:
-"N"afiul Haque - Team Leader, Front-end Developer
-Shams Khan "O"mik - Front-end Developer
-"B"ayezid Bostami - Data Analyst
-"H"asib Khan - Back-end Developer
-Hritom Sarker "O"yon - Researcher
-"Yan"na Lorraine D. Tenorio - Designer
+# "N"
+afiul Haque - Team Leader, Front-end Developer|
+Shams Khan 
+# "O"
+mik - Front-end Developer|
+# "B"
+ayezid Bostami - Data Analyst|
+# "H"
+asib Khan - Back-end Developer|
+Hritom Sarker 
+# "O"
+yon - Researcher|
+# "Yan"
+na Lorraine D. Tenorio - Designer
 
 ## About
 We are a bunch of high-schoolers working hard to show you the starry-night in an alien planet.
